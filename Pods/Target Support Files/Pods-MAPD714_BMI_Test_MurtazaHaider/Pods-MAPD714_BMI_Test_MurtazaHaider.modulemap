@@ -1,0 +1,6 @@
+framework module Pods_MAPD714_BMI_Test_MurtazaHaider {
+  umbrella header "Pods-MAPD714_BMI_Test_MurtazaHaider-umbrella.h"
+
+  export *
+  module * { export * }
+}

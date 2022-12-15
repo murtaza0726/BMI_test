@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247374200117-2rad7c9k9c00lin10hqeru43aji31rka.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247374200117-2rad7c9k9c00lin10hqeru43aji31rka</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGLvpmt0Bc3Hmp8pV4oz9a9GZGyoCV4Fw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247374200117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>demo.MAPD714-BMI-Test-MurtazaHaider</string>
+	<key>PROJECT_ID</key>
+	<string>mytodoapp-3b2bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mytodoapp-3b2bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247374200117:ios:554d48ebd9b05cc232e07c</string>
+	<key>DATABASE_URL</key>
+	<string>https://mytodoapp-3b2bb-default-rtdb.firebaseio.com/</string>
+</dict>
+</plist>
